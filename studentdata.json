@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Lumi",
+    "age": "21",
+    "grade": "SSS",
+    "email": "lumi@interest.human",
+    "address": "India"
+  },
+  {
+    "id": 2,
+    "name": "Sinko",
+    "age": "20",
+    "grade": "S",
+    "email": "sinko@maybe.human",
+    "address": "India"
+  },
+  {
+    "id": 3,
+    "name": "Sia",
+    "age": "18",
+    "grade": "A",
+    "email": "sia@vitb.loss",
+    "address": "Bhopal"
+  },
+  {
+    "id": 4,
+    "name": "Bunny",
+    "age": "21",
+    "grade": "B",
+    "email": "bunny@gone.bye",
+    "address": "Bolpur"
+  }
+]
