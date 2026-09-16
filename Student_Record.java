@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-public class s {
+public class Student_Record {
 
     static String saveFile = "C:\\JAVA VITyarthi\\studentdata.json";
     static String[] headers = { "id", "name", "age", "grade", "email", "address" };
